@@ -5,7 +5,7 @@
 
 # Introduction
 
-I delved into the rich tapestry of connections, engagements, and career trends that define my professional network. This analysis aims to unravel the patterns within my LinkedIn dataset, unveiling valuable insights into my professional presence, growth, and engagement dynamics on this dynamic platform. Join me on this insightful journey as we uncover the stories woven into the fabric of my professional digital footprint."
+I delved into the rich tapestry of connections, engagements, and career trends that define my professional network. This analysis aims to unravel the patterns within my LinkedIn dataset, unveiling valuable insights into my professional presence, growth, and engagement dynamics on this dynamic platform. Join me on this insightful journey as we uncover the stories woven into the fabric of my professional digital footprint."😄😸
 
 ## Datasets Used
 
@@ -90,7 +90,9 @@ In the analysis, we utilized a selection of 10 tables from the comprehensive dat
 
 ## Modelling
 
-I created a Calendar table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). The dimension tables were joined to the calendar table to create a relationship 
+I created a Calendar table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). The dimension tables were joined to the calendar table to create a relationship🤓 
+
+##### To see all the Dax formulas that I used jumb here ![](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/7d72d2c20ecbaaaa8afc70db3cb41b3f679ff7bb/All%20Measures%20Used%20.docx)
 
 
 ### Unadjusted Model Before adding Calendar Table
@@ -114,10 +116,12 @@ I created a Calendar table using the Dax formula [Here](https://github.com/Chich
 
 
 **Observation:**
+
 My LinkedIn analysis revealed that I have a network of 1610 connections, with a balanced ratio of 53.33% connection requests received and 47.67% sent. Notably, The significant number of reactions (1,568) suggests that your content is resonating well with your network.
 The spike in connection requests in June indicates a particular period of increased interest in my profile, possibly due to specific activities or content shared during that time.
 
 **Recommendations:**
+
 1. I need to be more consistent and leverage diverse content strategies to garner more reactions.
   
 2. Maintain active engagement with my network, acknowledge endorsements, and participate more in discussions for a vibrant professional community.
