@@ -90,7 +90,9 @@ In the analysis, we utilized a selection of 10 tables from the comprehensive dat
 
 ## Modelling
 
-I created a Calendar table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). The dimension tables were joined to the calendar table to create a relationship🤓 
+I created a Calendar table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). 
+
+The dimension tables were joined to the calendar table to create a relationship🤓 
 
 ##### To see all the Dax formulas that I used 🤹 🤹 here ![HERE](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/7d72d2c20ecbaaaa8afc70db3cb41b3f679ff7bb/All%20Measures%20Used%20.docx)
 
