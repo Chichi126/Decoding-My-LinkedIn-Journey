@@ -80,6 +80,6 @@ In the analysis, we utilized a selection of 10 tables from the comprehensive dat
 
 ## Modelling
 
-I created a Calendar Table using the Dax formula ![](). The dimention tables were joined to the Calender table to create relationship 
+I created a Calendar Table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). The dimention tables were joined to the Calender table to create relationship 
 
 
