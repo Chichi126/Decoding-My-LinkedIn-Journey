@@ -63,6 +63,16 @@ In the analysis, we utilized a selection of 10 tables from the comprehensive dat
 - You will get a message in your inbox after 24 hours that your data is ready
 
 
+### The following features were used to create the background in Power Point
+
+- shapes
+
+- Icons
+
+- Colours
+
+- My Picture
+
 
 #### The following Power BI functions were used
 
@@ -80,6 +90,47 @@ In the analysis, we utilized a selection of 10 tables from the comprehensive dat
 
 ## Modelling
 
-I created a Calendar Table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). The dimention tables were joined to the Calender table to create relationship 
+I created a Calendar table using the Dax formula [Here](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Calendar.docx). The dimension tables were joined to the calendar table to create a relationship 
+
+
+### Unadjusted Model Before adding Calendar Table
+![](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Unmodelled.jpeg)
+
+
+
+ ### Adjusted Model After adding Calendar Table                                            
+
+![](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/Modelled%20picture.png)
+
+
+
+## Visualization
+
+**To interact with the Dashboard kindly follow and see every table in action kindly click** ![HERE](https://app.powerbi.com/links/1w9tB2r0fK?ctid=5c4e5ee6-54e6-49fe-a36f-e88a7eadfc94&pbi_source=linkShare)
+
+**Picture of my Dashboard**
+
+![](https://github.com/Chichi126/Decoding-My-LinkedIn-Journey/blob/main/DashBoard.png)
+
+
+**Observation:**
+My LinkedIn analysis revealed that I have a network of 1610 connections, with a balanced ratio of 53.33% connection requests received and 47.67% sent. Notably, The significant number of reactions (1,568) suggests that your content is resonating well with your network.
+The spike in connection requests in June indicates a particular period of increased interest in my profile, possibly due to specific activities or content shared during that time.
+
+**Recommendations:**
+1. I need to be more consistent and leverage diverse content strategies to garner more reactions.
+  
+2. Maintain active engagement with my network, acknowledge endorsements, and participate more in discussions for a vibrant professional community.
+
+3. Further analyze the factors contributing to the June spike and explore replicating successful strategies to sustain connection interest.
+
+4. Periodically extending targeted connection requests to align with my professional goals, and contribute to ongoing network expansion.
+
+5. Continue skill development, highlighting expertise through endorsements and certifications for enhanced professional credibility.
+
+
+
+
+
 
 
