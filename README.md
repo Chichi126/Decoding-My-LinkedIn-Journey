@@ -48,7 +48,7 @@ In the analysis, we utilized a selection of 10 tables from the comprehensive dat
 
 #### Steps on how I got my dataset from Linkedin
 
-- Log into my LinkedIn page and then click on **ME**
+- Log into LinkedIn page and click on **ME**
   
 - Go to Settings and Privacy
 
